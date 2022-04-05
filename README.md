@@ -1,6 +1,6 @@
 ### Hi there 👋,I am saermart, 
  
-![](https://github-readme-stats.vercel.app/api?username=saermart&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=saermart&count_private=true&theme=dracula&show_icons=true)
 
 **saermart/saermart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
