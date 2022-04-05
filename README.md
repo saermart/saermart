@@ -1,6 +1,9 @@
-### Hi there 👋,I am saermart, 
+### Chinese, not an IT man.  
  
-![](https://github-readme-stats.vercel.app/api?username=saermart&count_private=true&theme=vue&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=saermart&count_private=true&theme=dracula&show_icons=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saermart&repo=saermart&show_owner=true)](https://github.com/saermart/saermart)
+
 
 **saermart/saermart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
