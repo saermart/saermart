@@ -38,8 +38,6 @@
 
 <p align="center">
 <a href="mailto:kukushka@126.com"><img src="https://img.shields.io/badge/-kukushka@126.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/%20-saermart-lightgrey?logo=wechat&Color=white"/></a>
-<a href="https://weibo.com/u/7751075499"><img src="https://img.shields.io/badge/-@saermart-important?style=flat&logo=sinaweibo&logoColor=white"/></a>
 </p>
 
  
